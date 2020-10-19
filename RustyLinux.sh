@@ -58,6 +58,9 @@ cargo install alacritty
 # tokei - cloc
 cargo install tokei
 
+# emulsion - image viewer
+cargo install emulsion
+
 # process viewer - system monitor
 cargo install process_viewer
 

@@ -41,6 +41,7 @@ This will install only newer version of packages.
 - zenith - htop
 - alacritty - terminal
 - tokei - cloc
+- emulsion - image viewer
 - process viewer - system monitor
 - gxi - text editor
 - popsicle - Etcher
@@ -54,4 +55,3 @@ This applications should be active and newest commit should be younger than 1 ye
 I failed to find Rust applications from this category:
 - Video player
 - Music/Audio player
-- Image viewer
