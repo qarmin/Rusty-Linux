@@ -10,6 +10,8 @@ One of the potential solutions to these problems is to use Rust language providi
 
 Although rewriting software from C(or similar) may initially require a lot of work, when adding new features, the programmer will be able to save time on detecting memory corruption (address sanitizer, valgrind) or memory leaks (leak sanitizer, valgrind).
 
+Creating memory safe and big application(>100K code) in C language is almost impossible because every bigger change brings a huge amount of bugs (Rust from all of them will of course magically not protect) - look at the recent Wine refactoring for more info.
+
 ## Install apps
 To install apps you need just download this script and run
 ```
