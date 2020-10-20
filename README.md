@@ -45,7 +45,7 @@ This will install only newer version of packages.
 - [process viewer](https://github.com/GuillaumeGomez/process-viewer) - system monitor
 - [gxi](https://github.com/bvinc/gxi) - text editor
 - [popsicle](https://github.com/pop-os/popsicle) - Etcher
-- Czkawka - FSlint
+- [Czkawka](https://github.com/qarmin/czkawka) - FSlint
 
 ## Contribute
 If you know about some good Rust appliaction for Linux, which is alternative to existing one, please create pull-request or new issue about it.
