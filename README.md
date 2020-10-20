@@ -36,10 +36,10 @@ This will install only newer version of packages.
 - [lolcate](https://github.com/ngirard/lolcate-rs) - locate
 - [websocat](https://github.com/vi/websocat) - curl
 - [procs](https://github.com/dalance/procs) - ps
-- bottom - top
-- choose - cut/awk
-- zenith - htop
-- alacritty - terminal
+- [bottom](https://github.com/ClementTsang/bottom) - top
+- [choose](https://github.com/theryangeary/choose) - cut/awk
+- [zenith](https://github.com/bvaisvil/zenith) - htop
+- [alacritty](https://github.com/alacritty/alacritty) - terminal
 - tokei - cloc
 - emulsion - image viewer
 - process viewer - system monitor
