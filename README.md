@@ -29,13 +29,13 @@ This will install only newer version of packages.
 - [sd](https://github.com/chmln/sd) - sed
 - [amp](https://github.com/jmacdonald/amp) - vim
 - [coreutils uutils](https://github.com/uutils/coreutils) - coreutils
-- bat - cat
-- ripgrep - grep
-- dust - du
-- fd - find
-- lolcate - locate
-- websocat - curl
-- procs - ps
+- [bat](https://github.com/sharkdp/bat) - cat
+- [ripgrep](https://github.com/BurntSushi/ripgrep) - grep
+- [dust](https://github.com/bootandy/dust) - du
+- [fd](https://github.com/sharkdp/fd) - find
+- [lolcate](https://github.com/ngirard/lolcate-rs) - locate
+- [websocat](https://github.com/vi/websocat) - curl
+- [procs](https://github.com/dalance/procs) - ps
 - bottom - top
 - choose - cut/awk
 - zenith - htop
