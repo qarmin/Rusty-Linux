@@ -25,9 +25,9 @@ This will install only newer version of packages.
 
 
 ## List of apps with replacements  
-- exa - ls
-- sd - sed
-- amp - vim
+- [exa](https://github.com/ogham/exa) - ls
+- [sd](https://github.com/chmln/sd) - sed
+- [amp](https://github.com/jmacdonald/amp) - vim
 - coreutils uutils - coreutils
 - bat - cat
 - ripgrep - grep
