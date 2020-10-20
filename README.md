@@ -48,7 +48,7 @@ This will install only newer version of packages.
 - Czkawka - FSlint
 
 ## Contribute
-If you know about some good Rust appliaction for Linux, which is alternative to existing one, please create pull-request or new issue about it.
+If you know about some good Rust application for Linux, which is alternative to existing one, please create pull-request or new issue about it.
 
 This applications should be active and newest commit should be younger than 1 year.
 
