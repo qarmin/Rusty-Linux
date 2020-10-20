@@ -28,7 +28,7 @@ This will install only newer version of packages.
 - [exa](https://github.com/ogham/exa) - ls
 - [sd](https://github.com/chmln/sd) - sed
 - [amp](https://github.com/jmacdonald/amp) - vim
-- coreutils uutils - coreutils
+- [coreutils uutils](https://github.com/uutils/coreutils) - coreutils
 - bat - cat
 - ripgrep - grep
 - dust - du
