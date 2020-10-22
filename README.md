@@ -25,27 +25,27 @@ This will install only newer version of packages.
 
 
 ## List of apps with replacements  
-- exa - ls
-- sd - sed
-- amp - vim
-- coreutils uutils - coreutils
-- bat - cat
-- ripgrep - grep
-- dust - du
-- fd - find
-- lolcate - locate
-- websocat - curl
-- procs - ps
-- bottom - top
-- choose - cut/awk
-- zenith - htop
-- alacritty - terminal
-- tokei - cloc
-- emulsion - image viewer
-- process viewer - system monitor
-- gxi - text editor
-- popsicle - Etcher
-- Czkawka - FSlint
+- [exa](https://github.com/ogham/exa) - ls
+- [sd](https://github.com/chmln/sd) - sed
+- [amp](https://github.com/jmacdonald/amp) - vim
+- [coreutils uutils](https://github.com/uutils/coreutils) - coreutils
+- [bat](https://github.com/sharkdp/bat) - cat
+- [ripgrep](https://github.com/BurntSushi/ripgrep) - grep
+- [dust](https://github.com/bootandy/dust) - du
+- [fd](https://github.com/sharkdp/fd) - find
+- [lolcate](https://github.com/ngirard/lolcate-rs) - locate
+- [websocat](https://github.com/vi/websocat) - curl
+- [procs](https://github.com/dalance/procs) - ps
+- [bottom](https://github.com/ClementTsang/bottom) - top
+- [choose](https://github.com/theryangeary/choose) - cut/awk
+- [zenith](https://github.com/bvaisvil/zenith) - htop
+- [alacritty](https://github.com/alacritty/alacritty) - terminal
+- [tokei](https://github.com/XAMPPRocky/tokei) - cloc
+- [emulsion](https://github.com/ArturKovacs/emulsion) - image viewer
+- [process viewer](https://github.com/GuillaumeGomez/process-viewer) - system monitor
+- [gxi](https://github.com/bvinc/gxi) - text editor
+- [popsicle](https://github.com/pop-os/popsicle) - Etcher
+- [Czkawka](https://github.com/qarmin/czkawka) - FSlint
 
 ## Contribute
 If you know about some good Rust appliaction for Linux, which is alternative to existing one, please create pull-request or new issue about it.
