@@ -58,6 +58,9 @@ cargo install alacritty
 # tokei - cloc
 cargo install tokei
 
+# eva - bc
+cargo install eva
+
 # emulsion - image viewer
 cargo install emulsion
 

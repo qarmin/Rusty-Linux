@@ -41,6 +41,7 @@ This will install only newer version of packages.
 - [zenith](https://github.com/bvaisvil/zenith) - htop
 - [alacritty](https://github.com/alacritty/alacritty) - terminal
 - [tokei](https://github.com/XAMPPRocky/tokei) - cloc
+- [eva](https://github.com/NerdyPepper/eva) - bc
 - [emulsion](https://github.com/ArturKovacs/emulsion) - image viewer
 - [process viewer](https://github.com/GuillaumeGomez/process-viewer) - system monitor
 - [gxi](https://github.com/bvinc/gxi) - text editor
