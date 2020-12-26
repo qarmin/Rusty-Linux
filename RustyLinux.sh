@@ -34,6 +34,9 @@ cargo install du-dust
 # fd - find
 cargo install fd-find
 
+# rip - rm
+cargo install rm-improved
+
 # lolcate - locate
 cargo install lolcate-rs
 

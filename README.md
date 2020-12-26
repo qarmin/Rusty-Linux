@@ -33,6 +33,7 @@ This will install only newer version of packages.
 - [ripgrep](https://github.com/BurntSushi/ripgrep) - grep
 - [dust](https://github.com/bootandy/dust) - du
 - [fd](https://github.com/sharkdp/fd) - find
+- [rip](https://github.com/nivekuil/rip) - rm
 - [lolcate](https://github.com/ngirard/lolcate-rs) - locate
 - [websocat](https://github.com/vi/websocat) - curl
 - [hx](https://github.com/sitkevij/hex) - hexdump
