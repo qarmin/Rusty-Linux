@@ -35,6 +35,7 @@ This will install only newer version of packages.
 - [fd](https://github.com/sharkdp/fd) - find
 - [lolcate](https://github.com/ngirard/lolcate-rs) - locate
 - [websocat](https://github.com/vi/websocat) - curl
+- [hx](https://github.com/sitkevij/hex) - hexdump
 - [procs](https://github.com/dalance/procs) - ps
 - [bottom](https://github.com/ClementTsang/bottom) - top
 - [choose](https://github.com/theryangeary/choose) - cut/awk

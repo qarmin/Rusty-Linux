@@ -40,6 +40,9 @@ cargo install lolcate-rs
 # websocat - curl
 cargo install websocat
 
+# hx - hexdump
+cargo install hx
+
 # procs - ps
 cargo install procs
 
