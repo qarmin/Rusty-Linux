@@ -40,6 +40,7 @@ This will install only newer version of packages.
 - [procs](https://github.com/dalance/procs) - ps
 - [bottom](https://github.com/ClementTsang/bottom) - top
 - [choose](https://github.com/theryangeary/choose) - cut/awk
+- [uniqtoo](https://github.com/JakeWharton/uniqtoo) - sort | uniq -c
 - [zenith](https://github.com/bvaisvil/zenith) - htop
 - [alacritty](https://github.com/alacritty/alacritty) - terminal
 - [tokei](https://github.com/XAMPPRocky/tokei) - cloc
