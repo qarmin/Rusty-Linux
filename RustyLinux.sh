@@ -84,3 +84,6 @@ cargo install --git https://github.com/pop-os/popsicle.git popsicle_gtk
 # Needs GTK 3.22+
 cargo install czkawka_gui
 
+# uniqtoo
+cargo install uniqtoo
+
