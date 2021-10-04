@@ -31,6 +31,9 @@ cargo install ripgrep
 # dust - du
 cargo install du-dust
 
+# dog - dig
+cargo install dog
+
 # fd - find
 cargo install fd-find
 
