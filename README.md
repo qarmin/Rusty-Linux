@@ -32,6 +32,7 @@ This will install only newer version of packages.
 - [bat](https://github.com/sharkdp/bat) - cat
 - [ripgrep](https://github.com/BurntSushi/ripgrep) - grep
 - [dust](https://github.com/bootandy/dust) - du
+- [dog](https://github.com/ogham/dog) - dig
 - [fd](https://github.com/sharkdp/fd) - find
 - [rip](https://github.com/nivekuil/rip) - rm
 - [lolcate](https://github.com/ngirard/lolcate-rs) - locate
