@@ -26,6 +26,7 @@ This will install only newer version of packages.
 
 ## List of apps with replacements  
 - [exa](https://github.com/ogham/exa) - ls
+- [zoxide](https://github.com/ajeetdsouza/zoxide) - cd
 - [sd](https://github.com/chmln/sd) - sed
 - [amp](https://github.com/jmacdonald/amp) - vim
 - [coreutils uutils](https://github.com/uutils/coreutils) - coreutils
