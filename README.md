@@ -42,6 +42,7 @@ This will install only newer version of packages.
 - [bottom](https://github.com/ClementTsang/bottom) - top
 - [choose](https://github.com/theryangeary/choose) - cut/awk
 - [uniqtoo](https://github.com/JakeWharton/uniqtoo) - sort | uniq -c
+- [just](https://github.com/casey/just) - make
 - [zenith](https://github.com/bvaisvil/zenith) - htop
 - [alacritty](https://github.com/alacritty/alacritty) - terminal
 - [tokei](https://github.com/XAMPPRocky/tokei) - cloc
