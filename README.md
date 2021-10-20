@@ -43,6 +43,7 @@ This will install only newer version of packages.
 - [choose](https://github.com/theryangeary/choose) - cut/awk
 - [uniqtoo](https://github.com/JakeWharton/uniqtoo) - sort | uniq -c
 - [zenith](https://github.com/bvaisvil/zenith) - htop
+- [jql](https://github.com/yamafaktory/jql) - jq
 - [alacritty](https://github.com/alacritty/alacritty) - terminal
 - [tokei](https://github.com/XAMPPRocky/tokei) - cloc
 - [eva](https://github.com/NerdyPepper/eva) - bc
