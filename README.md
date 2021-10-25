@@ -45,6 +45,7 @@ This will install only newer version of packages.
 - [uniqtoo](https://github.com/JakeWharton/uniqtoo) - sort | uniq -c
 - [just](https://github.com/casey/just) - make
 - [zenith](https://github.com/bvaisvil/zenith) - htop
+- [jql](https://github.com/yamafaktory/jql) - jq
 - [alacritty](https://github.com/alacritty/alacritty) - terminal
 - [tokei](https://github.com/XAMPPRocky/tokei) - cloc
 - [eva](https://github.com/NerdyPepper/eva) - bc

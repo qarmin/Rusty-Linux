@@ -61,6 +61,9 @@ cargo install bottom
 # choose - cut/awk
 cargo install choose
 
+# jql - jq
+cargo install jql
+
 # just - make
 cargo install just
 
