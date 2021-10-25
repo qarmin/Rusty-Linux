@@ -58,6 +58,9 @@ cargo install bottom
 # choose - cut/awk
 cargo install choose
 
+# just - make
+cargo install just
+
 # zenith - htop
 cargo install --git https://github.com/bvaisvil/zenith.git
 
