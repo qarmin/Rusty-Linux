@@ -26,6 +26,7 @@ This will install only newer version of packages.
 
 ## List of apps with replacements  
 - [exa](https://github.com/ogham/exa) - ls
+- [zoxide](https://github.com/ajeetdsouza/zoxide) - cd
 - [sd](https://github.com/chmln/sd) - sed
 - [amp](https://github.com/jmacdonald/amp) - vim
 - [coreutils uutils](https://github.com/uutils/coreutils) - coreutils
@@ -42,6 +43,7 @@ This will install only newer version of packages.
 - [bottom](https://github.com/ClementTsang/bottom) - top
 - [choose](https://github.com/theryangeary/choose) - cut/awk
 - [uniqtoo](https://github.com/JakeWharton/uniqtoo) - sort | uniq -c
+- [just](https://github.com/casey/just) - make
 - [zenith](https://github.com/bvaisvil/zenith) - htop
 - [jql](https://github.com/yamafaktory/jql) - jq
 - [alacritty](https://github.com/alacritty/alacritty) - terminal

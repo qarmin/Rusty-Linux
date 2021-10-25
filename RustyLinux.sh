@@ -11,6 +11,9 @@ cargo install exa
 ## lsd
 #cargo install lsd
 
+# zoxide - cd
+cargo install zoxide
+
 # sd - sed
 cargo install sd
 
@@ -60,6 +63,9 @@ cargo install choose
 
 # jql - jq
 cargo install jql
+
+# just - make
+cargo install just
 
 # zenith - htop
 cargo install --git https://github.com/bvaisvil/zenith.git
