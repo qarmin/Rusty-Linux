@@ -11,6 +11,9 @@ cargo install exa
 ## lsd
 #cargo install lsd
 
+# zoxide - cd
+cargo install zoxide
+
 # sd - sed
 cargo install sd
 
