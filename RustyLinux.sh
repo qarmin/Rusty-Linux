@@ -79,6 +79,9 @@ cargo install tokei
 # eva - bc
 cargo install eva
 
+# broot - tree
+cargo install broot
+
 # emulsion - image viewer
 cargo install emulsion
 
