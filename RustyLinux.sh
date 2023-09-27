@@ -6,10 +6,10 @@
 # Update Rust
 rustup update
 
+
+# CLI
 # exa - ls
 cargo install exa
-## lsd
-#cargo install lsd
 
 # zoxide - cd
 cargo install zoxide
@@ -82,23 +82,36 @@ cargo install eva
 # broot - tree
 cargo install broot
 
-# emulsion - image viewer
-cargo install emulsion
-
-# process viewer - system monitor
-cargo install process_viewer
-
-# gxi - text editor
-# Needs GTK 3
-cargo install --git https://github.com/bvinc/gxi.git
-
-# popsicle - Etcher
-cargo install --git https://github.com/pop-os/popsicle.git popsicle_gtk
-
-# Czkawka - FSlint
-# Needs GTK 3.22+
-cargo install czkawka_gui
-
 # uniqtoo
 cargo install uniqtoo
 
+
+
+# GUI
+
+# Image Viewer - emulsion
+cargo install emulsion
+
+# Process Viewer - process_viewer
+cargo install process_viewer
+
+# Text Editor - gxi
+cargo install --git https://github.com/bvinc/gxi.git
+
+# Bootable USB - popsicle
+cargo install --git https://github.com/pop-os/popsicle.git popsicle_gtk
+
+# Data cleaner - czkawka
+cargo isntall czkawka_gui
+# or cargo install fclones-gui
+
+# File renamer - szyszka
+cargo install szyszka
+
+# Music player - amberol - not available on cargo
+flatpak install flathub io.bassi.Amberol
+
+# Game engine - fyrox
+cargo install fyrox
+
+# DE - cosmic-epoch - instruction currently not available
