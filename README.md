@@ -41,7 +41,7 @@ This will install only newer version of packages.
 
 | Cli app        | Rust app                                                | Description                              |
 |----------------|---------------------------------------------------------|------------------------------------------|
-| ls             | [exa](https://github.com/ogham/exa)                     | List content(files/dirs) in dir          |
+| ls             | [eza](https://github.com/eza-community/eza)             | List content(files/dirs) in dir          |
 | cd             | [zoxide](https://github.com/ajeetdsouza/zoxide)         | Changes the current directory.           |
 | sed            | [sd](https://github.com/chmln/sd)                       | Text stream editor.                      |
 | vim            | [amp](https://github.com/jmacdonald/amp)                | Text editor.                             |
