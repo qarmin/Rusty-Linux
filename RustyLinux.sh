@@ -101,7 +101,7 @@ cargo install --git https://github.com/bvinc/gxi.git
 cargo install --git https://github.com/pop-os/popsicle.git popsicle_gtk
 
 # Data cleaner - czkawka
-cargo isntall czkawka_gui
+cargo install czkawka_gui
 # or cargo install fclones-gui
 
 # File renamer - szyszka
