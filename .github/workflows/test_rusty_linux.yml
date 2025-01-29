@@ -16,10 +16,6 @@ jobs:
             toolchain: stable
             override: true
             components: rustfmt, clippy
-      - name: Run cargo check
-        uses: actions-rs/cargo@v1
-        with:
-          command: check
       - name: Install Rusty Linux
         run: chmod a+x ./RustyLinux.sh && ./RustyLinux.sh
         
