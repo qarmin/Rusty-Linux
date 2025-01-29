@@ -115,3 +115,5 @@ flatpak install flathub io.bassi.Amberol
 cargo install fyrox
 
 # DE - cosmic-epoch - instruction currently not available
+
+exit 0
