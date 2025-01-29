@@ -4,7 +4,10 @@ on: [push]
 jobs:
   check:
     name: Rusty Linux
-    runs-on: [ubuntu-24.04, ubuntu-24.04-arm]
+    strategy:
+      matrix:
+        os: [ubuntu-24.04, ubuntu-24.04-arm]
+    runs-on: ${{ matrix.os }}
     steps:
       - uses: actions/checkout@v2
       - name: Install latest stable
