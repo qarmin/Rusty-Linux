@@ -41,7 +41,7 @@ cargo install dog
 cargo install fd-find
 
 # rip - rm
-cargo install rm-improved
+cargo install rip2
 
 # lolcate - locate
 cargo install lolcate-rs
@@ -84,7 +84,6 @@ cargo install broot
 
 # uniqtoo
 cargo install uniqtoo
-
 
 
 # GUI

@@ -51,7 +51,7 @@ This will install only newer version of packages.
 | du             | [dust](https://github.com/bootandy/dust)                | Estimates disk usage.                    |
 | dig            | [dog](https://github.com/ogham/dog)                     | DNS query tool.                          |
 | find           | [fd](https://github.com/sharkdp/fd)                     | Searches for files and directories.      |
-| rm             | [rip](https://github.com/nivekuil/rip)                  | Removes files or directories.            |
+| rm             | [rip](https://github.com/MilesCranmer/rip2)             | Removes files or directories.            |
 | locate         | [lolcate](https://github.com/ngirard/lolcate-rs)        | Quickly finds files.                     |
 | curl           | [websocat](https://github.com/vi/websocat)              | Data transfer tool.                      |
 | hexdump        | [hx](https://github.com/sitkevij/hex)                   | Displays files in hexadecimal format     |
