@@ -1,0 +1,22 @@
+name: Test Rusty Linux
+
+on: [push]
+jobs:
+  check:
+    name: Rusty Linux
+    runs-on: [ubuntu-24.04, ubuntu-24.04-arm]
+    steps:
+      - uses: actions/checkout@v2
+      - name: Install latest stable
+        uses: actions-rs/toolchain@v1
+        with:
+            toolchain: stable
+            override: true
+            components: rustfmt, clippy
+      - name: Run cargo check
+        uses: actions-rs/cargo@v1
+        with:
+          command: check
+      - name: Install Rusty Linux
+        run: chmod a+x ./RustyLinux.sh && ./RustyLinux.sh
+        
