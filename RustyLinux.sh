@@ -8,7 +8,7 @@ rustup update
 
 
 # CLI
-# exa - ls
+# eza - ls
 cargo install eza
 
 # zoxide - cd
