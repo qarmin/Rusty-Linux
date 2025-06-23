@@ -49,6 +49,7 @@ This will install only newer version of packages.
 | cat            | [bat](https://github.com/sharkdp/bat)                   | Concatenates and displays file content.  |
 | grep           | [ripgrep](https://github.com/BurntSushi/ripgrep)        | Searches text using patterns.            |
 | du             | [dust](https://github.com/bootandy/dust)                | Estimates disk usage.                    |
+| df             | [dysk](https://github.com/Canop/dysk)                   | Get information on filesystems.                    |
 | dig            | [dog](https://github.com/ogham/dog)                     | DNS query tool.                          |
 | find           | [fd](https://github.com/sharkdp/fd)                     | Searches for files and directories.      |
 | rm             | [rip](https://github.com/MilesCranmer/rip2)             | Removes files or directories.            |
