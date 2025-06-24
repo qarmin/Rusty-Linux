@@ -34,6 +34,9 @@ cargo install ripgrep
 # dust - du
 cargo install du-dust
 
+# dysk - df
+cargo install --locked dysk
+
 # dog - dig
 cargo install dog
 
